@@ -1,0 +1,6 @@
+
+1) Variable : Son espacios que reservamos en nuestra memoria para luego colocar valores de diferentes tipos.
+2) Strings : Es un tipo de variable la cual almacena texto, como nuestro nombre o apellidos...
+3) Funciones : Son fragmentos de codigo que lo declaramos cuado por ejemplo necesitamos realizar una misma accion varias veces y no queremos escribir cada rato lo mismo, las funciones pueden tener argumentos que son valores que les pasamos para hacer determinada accion con ellos y ademas las funciones pueden retornar o no algun valor como resultado de su ejecucion.
+4) Declaraciones if : Este nos permite tomar decisiones dentro de nuestro programa dependiendo de si una condicion se cumple o no.
+5) Valores Booleanos : Estas son variables que unicamente tienen dos posibles valores true o false, son muy utiles para usarlos con diferentes sentencias de control como el if.
