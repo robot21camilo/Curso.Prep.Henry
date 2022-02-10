@@ -1,0 +1,4 @@
+
+1. For: Esta es una caracteristica del lenguaje que nos permite repetir determinada acción, podemos indicarle desde donde queremos que empiece hasta donde queremos que termine y el modo en que se incrementa. Por ejemplo, tenemos que ingresar las notas de 5 estudiantes, entoncs lo que hacemos es indicarle al for que queremos que empiece en 1 y de ahi en adelante haga la misma accion de registrar la nota de los estudiantes 5 veces.
+
+2.`&&`, `||`: Estos son caracteres que nos son muy utiles a la hora de tomar decisiones, como ejemplo si queremos decidir entre que ropa nos gusta (camisa y pantalon). Con los primeros caracteres nos tiene que gustar las dos la camisa y el pantalon para comprarlo lo podriamos leer asi si la camisa me gusta Y = && el pantalon me gusta, entonces lo compramos, con los segundos se lee como un O y solo tiene que cumplierse uno de los dos.
