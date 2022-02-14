@@ -1,0 +1,9 @@
+Objetos: Es una estructura de datos es decir un sitio donde podremos almacenar información, con la particularidad de que cada dato que guardemos tendra como un identificador se podria decir. Por ejemplo si tenemos un perro que seria nuestro objeto, podemos poner el identificador nombre y como valor de este seria el nombre del perro, podemos colocar el color y como valor seria el color del perro.
+
+Propiedades: Son caracteristicas de algun objeto, en el caso anterior a lo que le deciamos identificador seria una propiedad del objeto(nombre,color,edad...)
+
+Metodos: Son partes de codigo que guardamos dentro de un objeto y estas usualmente realizan cierta accion, por ejemplo nuestro perro puede tener un metodo que  se llame ladrar, y cuando invoquemos este metodo podria retornar "waoo".
+
+Bucle for in: Con este podemos obtener las clave o propiedades de nuestro objeto y por lo tanto podriamos acceder a los valores de estas propiedades.
+
+Notación de puntos vs notación de corchetes: Podemos acceder a los valores de las propiedades de los objetos de dos manera, objeto.propiedad y objeto['propiedad'].
