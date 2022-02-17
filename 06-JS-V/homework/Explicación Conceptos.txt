@@ -1,0 +1,3 @@
+prototype: Este podemos considerar que es el padre de un objeto cuando lo creamos, por ejemplo si tenemos un elemento que se llama carro que seria algo generico y a partir de este creamos un objeto que sea por decir un carro pero en este caso podria ser un auto de marca audi. En este caso el auto audi tendria las propiedades del carro y sus funciones tambien.
+
+ _Constructors_ (de Clases): Nos sirve para crear una plantilla de como queremos que sea un objeto como base, por ejemplo que tenga una propiedad que sea nombre,color, edad y asi por el estilo. 
